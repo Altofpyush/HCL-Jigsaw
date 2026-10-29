@@ -1,0 +1,5 @@
+Road / approach,Vehicles in 15 min (simulated),Fixed green (s),Smart green (s),Clearance per phase (s),Assumed discharge rate (veh/s)
+North approach,120,20,28,4,0.5
+East approach,90,20,22,4,0.5
+South approach,75,20,17,4,0.5
+West approach,60,20,13,4,0.5

@@ -1,0 +1,9 @@
+HCL JIGSAW ROUND 2 | TRAFFIC FLOW OPTIMIZER,Column_2,Column_3,Column_4,Column_5,Column_6
+Purpose,Compare a fixed-timer signal with a traffic-responsive rule using the SAME simulated arrivals over 15 minutes.,,,,
+Study location,"Ek Murti Chowk near Pacific World School, Tech Zone IV, Greater Noida West. The school is listed near Ek Murti Chowk; this workbook models a simplified four-approach signal scenario, not the roundabout's current control.",,,,
+Data status,SIMULATED / ESTIMATED — not collected in the field.,,,,
+Test duration,900 seconds (15 minutes),,,,
+Service assumption,A green approach can discharge up to 0.5 vehicles/second (illustrative modelling assumption).,,,,
+Clearance assumption,4 seconds per approach after green for yellow/all-red clearance; this is a simplified model.,,,,
+Important limitation,"This is a rule-based simulation, not a trained machine-learning model or field-validated forecast. Ek Murti Chowk is a roundabout; this is a simplified nearby four-approach signal scenario, not a model of its actual control.",,,,
+How to use,"Check the Inputs and Results tabs. If you change traffic counts or green times, rerun the simulation script/model before using new results.",,,,

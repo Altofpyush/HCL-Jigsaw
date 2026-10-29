@@ -1,0 +1,10 @@
+Measure,Fixed timer,Smart rule,Change / interpretation
+Vehicles cleared in 15-minute simulation,307.0,331.0,24 more vehicles in this simulated test
+Estimated hourly equivalent (15-min result × 4),1227.0,1323.0,Projection only; not an independently run 60-minute test
+Average waiting time (seconds),65.6,35.1,30.5 s lower (46.5% reduction)
+Longest queue during the 15-minute run (vehicles),33.0,9.0,72.1% lower in the model
+Total vehicles arriving in 15 minutes,345.0,345.0,Same traffic input for both systems
+Total green time across four approaches (seconds),80.0,80.0,Equal: 80 seconds; plus 16 seconds of clearance = 96-second cycle
+Illustrative vehicle-hours of waiting avoided,,,"2.93 vehicle-hours, based on mean-wait difference × 345 arrivals"
+Illustrative fuel saved (litres),,,"1.76 L, assuming 0.6 L per idling vehicle-hour"
+Illustrative CO₂ avoided (kg),,,"4.04 kg, assuming 2.3 kg CO₂ per litre of fuel"
